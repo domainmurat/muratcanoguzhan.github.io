@@ -19,8 +19,8 @@
 
 ```js
 var fun = function Do(l) {
-  var statement = I always wanna write clean code.
-  return statement.Contains('clean')?true:false;
+  var statement = "I always wanna write clean code.";
+  return statement.Contains('clean') ? true : false;
 }
 ```
 
